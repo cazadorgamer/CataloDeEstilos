@@ -5,11 +5,14 @@ body{
 
 
 .figura{
+    
+    color: black;
     align-items: center;
     display: block;
     border: 2px solid black;
     padding: 100px;
     width: 15%;
+    margin-left: 30%;
     margin-top: 100px;
     margin-bottom: 100px;
     background-color: #d8d8e3;
