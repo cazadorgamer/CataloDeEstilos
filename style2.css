@@ -1,0 +1,54 @@
+body{
+    background-color: #2a2438;
+    color: white;
+}
+
+
+.figura{
+    align-items: center;
+    display: block;
+    border: 2px solid black;
+    padding: 100px;
+    width: 15%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: #d8d8e3;
+}
+
+.item{
+    width: 4%;
+    
+    border: 2px #5c5470 solid;
+    border-radius: 75px;
+    background-color: #5c5470;
+}
+
+.producto{
+    text-align: left;
+  
+}
+.precio{
+    text-align: right;
+}
+header{
+    text-align: center;
+ }
+ 
+ nav
+ {
+     margin-top: 10%;
+ }
+ nav a{
+ 
+     background-color: #00adb5;
+     color: black;
+     margin :9%;
+     
+     font-size: larger;
+ }
+ nav a:hover{
+     background-color: #00fff5;
+ }
+ .active{
+     background-color:#00fff5 ;
+ }
