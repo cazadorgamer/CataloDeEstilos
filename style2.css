@@ -45,7 +45,7 @@ header{
  
      background-color: #00adb5;
      color: black;
-     margin :9%;
+     margin :5%;
      
      font-size: larger;
  }
@@ -53,5 +53,5 @@ header{
      background-color: #00fff5;
  }
  .active{
-     background-color:#00fff5 ;
+     background-color:white ;
  }
