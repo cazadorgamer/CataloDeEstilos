@@ -1,5 +1,5 @@
 body{
-    background-color: #222831;
+    background-color: #21513b;
     color: white;
 }
 
@@ -12,16 +12,16 @@ body{
     width: 15%;
     margin-top: 100px;
     margin-bottom: 100px;
-    background-color: #EEEEEE;
+    background-color: #775af4;
     margin-left: 30%;
 }
 
 .item{
     width: 4%;
     
-    border: 2px #FD7014 solid;
+    border: 2px #775af4 solid;
     border-radius: 75px;
-    background-color: #FD7014;
+    background-color: #775af4;
 }
 
 .producto{
